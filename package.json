@@ -16,6 +16,11 @@
   ],
   "author": "Himadri Majumdar",
   "license": "ISC",
+  "repository" :
+  { 
+    "type" : "git",
+    "url" : "https://github.com/himadri-repo/BlockchainSample.git"
+  },
   "dependencies": {
     "crypto-js": "^3.1.9-1"
   }
