@@ -17,4 +17,4 @@ In this application, blockchain and block object created. This also shows how to
 - `npm install`
 - `npm start`
 
-Please have a look at main.js file and understand how it works before running it.
+Please have a look at **main.js** file and understand how it works before running it.
