@@ -14,7 +14,7 @@ This is just a demo application to simulate (in simplified manner), how blockcha
 In this application, blockchain and block object created. This also shows how to compute the has and how blocks are inter-related like _linked list_ data structure.
 
 ## How to run the application
-- npm install
-- npm start
+- `npm install`
+- `npm start`
 
 Please have a look at main.js file and understand how it works before running it.
